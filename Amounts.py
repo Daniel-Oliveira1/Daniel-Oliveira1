@@ -1,3 +1,7 @@
+#Daniel Oliveira
+#Feb 20th, 2022
+#Description: This is a simple code that that takes any amount given, and then converts the amount into the amount of dollar bills that it will take to equal the amount.
+
 def Qty(value):
     global amount
     num=amount//value
