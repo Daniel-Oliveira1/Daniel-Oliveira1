@@ -1,7 +1,9 @@
-//Daniel Oliveira
-//March 29th, 2022
-//Description: This is the code for an autonomous line following robot that uses two light sensors to detect the difference of light being reflected 
-//off a white sheet of paper, and being reflected off a black line(electrical tape), and then turns accordingly to follow the black line. This is done by using arduino. 
+/*
+Name: Daniel Oliveira
+Date: March 29th, 2022
+Description: This is the code for an autonomous line following robot that uses two light sensors to detect the difference of light being reflected 
+off a white sheet of paper, and being reflected off a black line(electrical tape), and then turns accordingly to follow the black line. This is done by using arduino.
+*/
 
 int Lsensor;
 int Rsensor;
