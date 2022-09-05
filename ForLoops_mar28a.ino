@@ -1,5 +1,5 @@
 //Daniel Oliveira
-//March 29th, 2022
+//March 28th, 2022
 //Description: This code asks the user for a number, and then counts towawrds the number starting from -5, and then increases by 5 until it reaches the inputted number.
 
 int Num;
