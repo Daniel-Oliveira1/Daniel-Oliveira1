@@ -1,3 +1,7 @@
+#Daniel Oliveira
+#Feb 24th, 2022
+#Description: This code draws a heart on the screen.
+
 import pygame
 pygame.init()
 import math
