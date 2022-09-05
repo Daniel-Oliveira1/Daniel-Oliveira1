@@ -1,7 +1,9 @@
-//Daniel Oliveira
-//March 24th, 2022
-//Description: This is a simple code that asks you your name and your age, and then prints them back to you. 
-//At the end it then asks if you would like to play again, and then retarts the game.
+/*
+Name: Daniel Oliveira
+Date March 24th, 2022
+Description: This is a simple code that asks you your name and your age, and then prints them back to you. 
+At the end it then asks if you would like to play again, and then retarts the game.
+*/
 
 String MyName;
 int Age;
