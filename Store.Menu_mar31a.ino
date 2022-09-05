@@ -1,3 +1,10 @@
+/*
+Name: Daniel Oliveira
+Date: March 31th, 2022
+Description: This code acts as an store, where the user gets a menu and can choose items to purchase, and at the end the user is then given the
+amount due that they will need to pay.
+*/
+
 String Customer;
 char WantToBuy;
 float Money;
